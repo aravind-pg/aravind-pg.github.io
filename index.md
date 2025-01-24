@@ -7,6 +7,11 @@ header-includes: |
       max-width: 800px;
       font-family: initial !important;
       font-size: 16px;
+      overflow-wrap: normal;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      overflow-wrap: normal;
+      hyphens: none;
     }
     img {
       margin-left: 16px;
@@ -30,7 +35,7 @@ header-includes: |
 
 # Aravind Gollakota
 
-I am an ML research engineer at Apple, working broadly on principled methods for reliable machine learning, including uncertainty quantification and related topics. My background is in computational learning theory and theoretical computer science. I received my PhD in CS at UT Austin in 2023 under [Adam Klivans](https://www.cs.utexas.edu/~klivans/), and my undergraduate degree in math and CS at Cornell University in 2017.
+I am an ML research engineer at Apple, working broadly on principled methods for reliable machine learning, including uncertainty quantification and related topics. My background is in machine learning theory and theoretical computer science. I received my PhD in CS at UT Austin in 2023 under [Adam Klivans](https://www.cs.utexas.edu/~klivans/), and my undergraduate degree in math and CS at Cornell University in 2017.
 
 [Email](mailto:aravindprasant@gmail.com), [LinkedIn](https://www.linkedin.com/in/aravind-gollakota/)
 
@@ -41,7 +46,7 @@ I am an ML research engineer at Apple, working broadly on principled methods for
 
 - _Provable Uncertainty Decomposition via Higher-Order Calibration_  
   Gustaf Ahdritz, Aravind Gollakota, Parikshit Gopalan, Charlotte Peale, Udi Wieder  
-  Submitted, 2024  
+  International Conference on Learning Representations (ICLR) 2025, to appear  
   [[arxiv]](https://arxiv.org/abs/2412.18808)
 - _An Efficient Tester-Learner for Halfspaces_  
   Aravind Gollakota, Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan  
