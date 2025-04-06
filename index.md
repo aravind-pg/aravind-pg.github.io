@@ -46,11 +46,11 @@ I am an ML research engineer at Apple, working broadly on principled methods for
 
 - _When does a predictor know its own loss?_  
   Aravind Gollakota, Parikshit Gopalan, Aayush Karan, Charlotte Peale, Udi Wieder  
-  Submitted, 2025  
+  Foundations of Responsible Computing (FORC) 2025  
   [[arxiv]](https://arxiv.org/abs/2502.20375)
 - _Provable Uncertainty Decomposition via Higher-Order Calibration_  
   Gustaf Ahdritz, Aravind Gollakota, Parikshit Gopalan, Charlotte Peale, Udi Wieder  
-  International Conference on Learning Representations (ICLR) 2025, to appear _(Spotlight presentation)_  
+  International Conference on Learning Representations (ICLR) 2025 _(Spotlight presentation)_  
   [[arxiv]](https://arxiv.org/abs/2412.18808)
 - _An Efficient Tester-Learner for Halfspaces_  
   Aravind Gollakota, Adam R. Klivans, Konstantinos Stavropoulos, Arsen Vasilyan  
